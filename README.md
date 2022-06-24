@@ -1,5 +1,5 @@
 # Tic Tac Toe
- Simple Tic Tac Toe game in Python.
+ Jogo da Velha em Python.
 
 <div align="center">
   <img src="preview.png">
